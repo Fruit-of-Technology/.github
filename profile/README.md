@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 🍎 Fruit of Technology
-
+ 
 > _"The fruit of knowledge was once blamed for humanity’s fall. Yet, in our era, we believe knowledge is what uplifts us."_
 
 Welcome to **Fruit of Technology** — an open-source organization driven by a simple but powerful idea: that the pursuit of knowledge and the open sharing of innovation can uplift all of humanity.
